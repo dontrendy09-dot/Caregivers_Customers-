@@ -1,0 +1,8 @@
+{
+  "name": "Remix HavenCare Mobile",
+  "description": "Customer-side mobile application for discovering, booking, and managing verified caregivers and home care services.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
